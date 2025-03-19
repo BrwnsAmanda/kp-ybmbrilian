@@ -75,19 +75,19 @@ const About = () => {
             <h3>Contact Us</h3>
             <p>
               <FontAwesomeIcon icon={faEnvelope} />{" "}
-              <a href="mailto:ybmbrilian_regionalmakassar@gmail.com">
-                ybmbrilian_regionalmakassar@gmail.com
+              <a href="customercare@ybmbrilian.id">
+              customercare@ybmbrilian.id
               </a>
             </p>
             <p>
               <FontAwesomeIcon icon={faInstagram} />{" "}
-              <a href="https://www.instagram.com/ybmbrilianmakassar" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/ybmbrilian_regionalmakassar?igsh=MTU4cjM5em1uNGN0dQ==" target="_blank" rel="noopener noreferrer">
                 ybmbrilianmakassar
               </a>
             </p>
             <p>
               <FontAwesomeIcon icon={faFacebook} />{" "}
-              <a href="https://www.facebook.com/ybmbrilianmakassar" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.facebook.com/ybmbri.makassar.9/" target="_blank" rel="noopener noreferrer">
                 Ybm Brilian Makassar
               </a>
             </p>

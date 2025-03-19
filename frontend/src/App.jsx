@@ -10,8 +10,9 @@ function App() {
       <Routes>
         <Route path="/" element={<Landing />} /> 
         <Route path="/about" element={<About />} /> 
-        <Route path="/login" element={<Login />} /> 
-      </Routes> {/* Pastikan Routes ditutup dengan benar */}
+        <Route path="/login" element={<Login />} />
+        {/* <Route path="/dashboard" element={<Dashboard />} /> */}
+      </Routes>
     </>
   );
 }

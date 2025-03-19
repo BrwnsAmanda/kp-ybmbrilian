@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../../../components/Navbar/Navbar';
-import './Landing.css'; // Import CSS
+import './Landing.css'; 
 
 const Landing = () => {
   return (
@@ -8,7 +8,7 @@ const Landing = () => {
       <Navbar />
       <div className="content">
         <div className="about-image">
-          <img src="/bgnew.png" alt="YBM BRILiaN" />
+          <img src="/background.jpg" alt="YBM BRILiaN" />
         </div>
       </div>
     </div>

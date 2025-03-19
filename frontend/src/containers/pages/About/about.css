@@ -106,9 +106,22 @@ body {
   gap: 10px;
 }
 
+.footer-right {
+  color: white; 
+}
+
+.footer-right a {
+  color: white; 
+  text-decoration: none; 
+}
+
+.footer-right svg {
+  color: white; 
+}
+
 .footer-text {
   display: flex;
-  flex-direction: column; /* Mengatur agar teks tersusun ke bawah */
+  flex-direction: column; 
 }
 
 .footer-text h2 {
@@ -122,10 +135,10 @@ body {
   font-weight: bold;
 }
 
-
 .footer-text {
   display: flex;
   flex-direction: column;
+  color: aliceblue;
 }
 
 .footer-left img {
